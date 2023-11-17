@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&family=Nunito:wght@400;600;700&display=swap');
+
+*:root
+{
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 100%;
+    display: flex;
+    border-radius: 15px;
+
+}
+
+body, html {
+  font-family: Nunito, sans-serif;}
+
+.container {
+    width: 100%;
+   }
+
+
+
+
+
+.Error{
+   width: 100%;
+   margin: 0 auto;
+
+}
+
+.boxtxt{
+    padding: 280px;
+    width: 100vw;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+.text-error 
+
+{
+    font-size: 15px;
+    align-items:normal;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100;
+    border-radius: 15px;
+    color: rgb(255, 255, 255);
+    
+}
+
+
+
+
